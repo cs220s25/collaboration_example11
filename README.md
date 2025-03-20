@@ -5,8 +5,8 @@ This repo is used to teach collaboration in a git repo.
 
 ## Collaborators
 
-* Ben
-* Jon
+* Ben colemanb@moravian.edu
+* Jon walshj05@moravian.edu
 
 This example is awesome!
 
