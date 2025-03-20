@@ -5,8 +5,8 @@ This repo is used to teach collaboration in a git repo.
 
 ## Collaborators
 
-* Ben
-* Jon
+1. Ben
+2. Jon
 
 This example is awesome!
 
